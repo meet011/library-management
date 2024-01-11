@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+
+venv
+/venv
+venv/
+media
+
+collectstatic/
+staticfiles/
+*.pyc
+__pycache__
+db.sqlite3
